@@ -1,4 +1,5 @@
-Blog-App 📝
+Blog-App 📝 - (currently in development)
+
 Blog-App is a Medium-style blogging platform built with Next.js. It supports creating, editing, and reading blog posts with a clean and responsive UI.
 
 *Features*
